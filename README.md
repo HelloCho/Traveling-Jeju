@@ -37,7 +37,7 @@ T・Way : 김포 ( 08 : 15 ) ~ 제주 ( 09 : 25 )
 * 제주공항 10:00 a.m
 * 아침 : [올래 국수](https://map.naver.com/v5/entry/place/11866447) - 고기국수 : 3.2만원 > 10 : 50 a.m 출발
 * 이동 -> 넥슨박물관 10분 소요
-* 탐방 : [넥슨박물관](https://map.naver.com/v5/entry/place/33907116) - 구매  > 12 : 30 a.m 출발
+* 탐방 : [넥슨박물관](https://map.naver.com/v5/entry/place/33907116) - AR체험 및 게임 구경  > 12 : 30 a.m 출발
 * 이동 -> 그마니네식당 15분 소요
 * 점심 : [그마니네식당](https://map.naver.com/v5/entry/place/32485033) - 갈치조림 & 미역국 : 20만원 > 14 : 00 p.m 출발
 * 이동 -> 카페 20분 소요
