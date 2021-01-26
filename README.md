@@ -132,4 +132,4 @@ T・Way : 김포 ( 08 : 15 ) ~ 제주 ( 09 : 25 )
 * [제주 제주시 동문재래시장](https://map.naver.com/v5/entry/place/11616005)
 * [천지연 폭포](https://map.naver.com/v5/entry/place/11491638) : 1인당 2천원
 * [용두암](https://map.naver.com/v5/entry/place/13491801)
-* 카카오프렌즈 팝스토어 본점
+* [카카오프렌즈 팝스토어 본점](https://map.naver.com/v5/entry/place/1982149700)
