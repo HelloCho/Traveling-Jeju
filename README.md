@@ -12,7 +12,7 @@ T・Way : 김포 ( 08 : 15 ) ~ 제주 ( 09 : 25 )
 
 ## 렌트카
 
--> https://www.billycar.co.kr/
+-> [BilyCar 렌트카 대여](https://www.billycar.co.kr)
 -> 기름값 : 5만원정도? -> 쏘카는 쓴만큼 결제가되므로 추후 알 수 있음
 -> 15만원
 
@@ -43,7 +43,7 @@ T・Way : 김포 ( 08 : 15 ) ~ 제주 ( 09 : 25 )
 * 이동 -> 35분 소요
 * 탐방 : 동문야시장 : 10만원(술포함) - 참돔회, 딱새우회, 아강발 > 17:30 p.m 출발
 * 용두암 야경
-* 숙소 짐 풀기[https://www.airbnb.co.kr/rooms/46473536](https://www.airbnb.co.kr/rooms/46473536)  휘로에서 도보 10분 - 침대 4개 vs 휘로에 가까운
+* 숙소 짐 풀기[제주시-AirB&B](https://www.airbnb.co.kr/rooms/46473536)  휘로에서 도보 10분 - 침대 4개 vs 휘로에 가까운
 * 저녁 : 휘로 15만원 ( 9시이후 금지 시 포장으로 들고와서 먹기 )
 * 야참 1차 ( 1시전에는 취침 : 운전수 해당사항 )
 
@@ -67,7 +67,7 @@ T・Way : 김포 ( 08 : 15 ) ~ 제주 ( 09 : 25 )
 * 탐방 : 중문야시장 : 25만원(술포함) - 흑돼지 바베큐용으로 많이, 흑돼지라멘(제주에만있음), 땅콩만두&땅콩우도막걸리 ( 1시간 소요 ) > 18 : 00 p.m  출발
 * 이동 -> 천지연폭포 ( 10분 소요 )
 * 탐방 : 천지연 야간 폭포 산책 ( 6: 30분 야간조명 이쁨 ) > 19 : 00 p.m 출발
-* 숙소 짐 풀기[https://www.airbnb.co.kr/rooms/27639286](https://www.airbnb.co.kr/rooms/27639286)
+* 숙소 짐 풀기[제주시-AirB&B](https://www.airbnb.co.kr/rooms/27639286)
 * 저녁 -> 중문야시장에서 장보고 바베큐
 * 야참 1차  ( 10만원, 최소 2시전 취침 : 운전수 해당사항 )
 
@@ -98,26 +98,26 @@ T・Way : 김포 ( 08 : 15 ) ~ 제주 ( 09 : 25 )
 
 > 맛집 - 제주시
 
-* 갈치조림[https://map.naver.com/v5/entry/place/32485033](https://map.naver.com/v5/search/%EC%95%A0%EC%9B%94%20%EC%84%B1%EA%B2%8C%EB%AF%B8%EC%97%AD%EA%B5%AD/place/32485033)
-* 고기국수[https://map.naver.com/v5/entry/place/11866447](https://map.naver.com/v5/search/%EC%A0%9C%EC%A3%BC%20%EA%B3%A0%EA%B8%B0%EA%B5%AD%EC%88%98/place/11866447) : 수요미식회 제주시
-* 우진해장국[https://map.naver.com/v5/entry/place/13418405](https://map.naver.com/v5/entry/place/13418405) : 제주식 해장국
-* 오후새우시[https://map.naver.com/v5/entry/place/1243200197?](https://map.naver.com/v5/entry/place/1243200197?) : 김밥 맛깔나게 보임
-* 만복김밥[https://map.naver.com/v5/entry/place/1546323950](https://map.naver.com/v5/search/%EB%A7%8C%EB%B3%B5%EA%B9%80%EB%B0%A5/place/1546323950) : 제주김밥으로 유명
-* 휘로[https://map.naver.com/v5/entry/place/32162526](https://map.naver.com/v5/search/%EC%A0%9C%EC%A3%BC%20%ED%9C%98%EB%A1%9C/place/32162526) : 해장용 전복갈비찜
-* 햄버거[https://map.naver.com/v5/entry/place/35125037](https://map.naver.com/v5/search/%EB%AA%AC%EC%8A%A4%ED%84%B0%EC%82%B4%EB%A1%B1/place/35125037)
+* [갈치조림](https://map.naver.com/v5/search/%EC%95%A0%EC%9B%94%20%EC%84%B1%EA%B2%8C%EB%AF%B8%EC%97%AD%EA%B5%AD/place/32485033)
+* [고기국수](https://map.naver.com/v5/search/%EC%A0%9C%EC%A3%BC%20%EA%B3%A0%EA%B8%B0%EA%B5%AD%EC%88%98/place/11866447) : 수요미식회 제주시
+* [우진해장국](https://map.naver.com/v5/entry/place/13418405) : 제주식 해장국
+* [오후새우시](https://map.naver.com/v5/entry/place/1243200197?) : 김밥 맛깔나게 보임
+* [만복김밥](https://map.naver.com/v5/search/%EB%A7%8C%EB%B3%B5%EA%B9%80%EB%B0%A5/place/1546323950) : 제주김밥으로 유명
+* [휘로](https://map.naver.com/v5/search/%EC%A0%9C%EC%A3%BC%20%ED%9C%98%EB%A1%9C/place/32162526) : 해장용 전복갈비찜
+* [햄버거](https://map.naver.com/v5/search/%EB%AA%AC%EC%8A%A4%ED%84%B0%EC%82%B4%EB%A1%B1/place/35125037)
 
 > 맛집 - 서귀포시
 
-* 고기국수[https://map.naver.com/v5/entry/place/16928656](https://map.naver.com/v5/entry/place/16928656) : 맛있는녀석들
-* 올레안뜰[https://map.naver.com/v5/entry/place/35117667](https://map.naver.com/v5/search/%EC%A0%9C%EC%A3%BC%20%EB%8F%88%EA%B9%8C%EC%8A%A4/place/35117667) : 흑돼지 왕돈까스
-* 몸냥식탁[https://map.naver.com/v5/entry/place/1354284057](https://map.naver.com/v5/search/%EC%A0%9C%EC%A3%BC%20%EB%8F%88%EA%B9%8C%EC%8A%A4/place/1354284057) : 비주얼 좋음
+* [고기국수](https://map.naver.com/v5/entry/place/16928656) : 맛있는녀석들
+* [올레안뜰](https://map.naver.com/v5/search/%EC%A0%9C%EC%A3%BC%20%EB%8F%88%EA%B9%8C%EC%8A%A4/place/35117667) : 흑돼지 왕돈까스
+* [몸냥식탁](https://map.naver.com/v5/search/%EC%A0%9C%EC%A3%BC%20%EB%8F%88%EA%B9%8C%EC%8A%A4/place/1354284057) : 비주얼 좋음
 * 서귀포 올래시장 땅콩만두( 4개 5천원 ) * 우도땅콩막걸리 (1병 4천원 )
 * 엘 마리노 뷔페 런치 : 내 복지포인트에서 결제가능
 
 
 > 레저
 
-* 클레이 사격 [https://www.nimotour.com/?pn=product.view&pcode=S6794522](https://www.nimotour.com/?pn=product.view&pcode=S6794522) : 16발 31,200원, 위치 서귀포 
+* [클레이 사격](https://www.nimotour.com/?pn=product.view&pcode=S6794522) : 16발 31,200원, 위치 서귀포 
 * 넥슨박물관 : 1인당 8천원
 * 성산일출봉 : 1인당 5천원
 * 천지연폭포 : 1인당 2천원
