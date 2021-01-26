@@ -103,19 +103,21 @@ T・Way : 김포 ( 08 : 15 ) ~ 제주 ( 09 : 25 )
 
 > 맛집 - 제주시
 
-* [갈치조림](https://map.naver.com/v5/search/%EC%95%A0%EC%9B%94%20%EC%84%B1%EA%B2%8C%EB%AF%B8%EC%97%AD%EA%B5%AD/place/32485033)
-* [고기국수](https://map.naver.com/v5/search/%EC%A0%9C%EC%A3%BC%20%EA%B3%A0%EA%B8%B0%EA%B5%AD%EC%88%98/place/11866447) : 수요미식회 제주시
-* [우진해장국](https://map.naver.com/v5/entry/place/13418405) : 제주식 해장국
+* [갈치조림](https://map.naver.com/v5/entry/place/32485033)
+* [고기국수](https://map.naver.com/v5/entry/place/11866447) : 수요미식회 제주시
+* [우진해장국](https://map.naver.com/v5/entry/place/13418405) : 제주도 3대 해장국
 * [오후새우시](https://map.naver.com/v5/entry/place/1243200197?) : 김밥 맛깔나게 보임
-* [만복김밥](https://map.naver.com/v5/search/%EB%A7%8C%EB%B3%B5%EA%B9%80%EB%B0%A5/place/1546323950) : 제주김밥으로 유명
-* [휘로](https://map.naver.com/v5/search/%EC%A0%9C%EC%A3%BC%20%ED%9C%98%EB%A1%9C/place/32162526) : 해장용 전복갈비찜
-* [햄버거](https://map.naver.com/v5/search/%EB%AA%AC%EC%8A%A4%ED%84%B0%EC%82%B4%EB%A1%B1/place/35125037)
+* [만복김밥](https://map.naver.com/v5/entry/place/1546323950) : 제주김밥으로 유명
+* [휘로](https://map.naver.com/v5/entry/place/32162526) : 해장용 전복갈비찜
+* [햄버거](https://map.naver.com/v5/entry/place/35125037)
 
 > 맛집 - 서귀포시
 
 * [고기국수](https://map.naver.com/v5/entry/place/16928656) : 맛있는녀석들
-* [올레안뜰](https://map.naver.com/v5/search/%EC%A0%9C%EC%A3%BC%20%EB%8F%88%EA%B9%8C%EC%8A%A4/place/35117667) : 흑돼지 왕돈까스
-* [몸냥식탁](https://map.naver.com/v5/search/%EC%A0%9C%EC%A3%BC%20%EB%8F%88%EA%B9%8C%EC%8A%A4/place/1354284057) : 비주얼 좋음
+* [올레안뜰](https://map.naver.com/v5/entry/place/35117667) : 흑돼지 왕돈까스
+* [몸냥식탁](https://map.naver.com/v5/entry/place/1354284057) : 비주얼 좋음
+* [은희네 해장국](https://map.naver.com/v5/entry/place/1596680288) : 제주도 3대 해장국
+* [미풍 해장국](https://map.naver.com/v5/entry/place/790734271) : 제주도 3대 해장국
 * 서귀포 올래시장 땅콩만두( 4개 5천원 ) * 우도땅콩막걸리 (1병 4천원 )
 * 엘 마리노 뷔페 런치 : 내 복지포인트에서 결제가능
 
