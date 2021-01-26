@@ -104,7 +104,7 @@ T・Way : 김포 ( 08 : 15 ) ~ 제주 ( 09 : 25 )
 > 맛집 - 제주시
 
 * [갈치조림](https://map.naver.com/v5/entry/place/32485033)
-* [고기국수](https://map.naver.com/v5/entry/place/11866447) : 수요미식회 제주시
+* [고기국수](https://map.naver.com/v5/entry/place/11866447) : 수요미식회
 * [우진해장국](https://map.naver.com/v5/entry/place/13418405) : 제주도 3대 해장국
 * [오후새우시](https://map.naver.com/v5/entry/place/1243200197?) : 김밥 맛깔나게 보임
 * [만복김밥](https://map.naver.com/v5/entry/place/1546323950) : 제주김밥으로 유명
@@ -119,7 +119,7 @@ T・Way : 김포 ( 08 : 15 ) ~ 제주 ( 09 : 25 )
 * [은희네 해장국](https://map.naver.com/v5/entry/place/1596680288) : 제주도 3대 해장국
 * [미풍 해장국](https://map.naver.com/v5/entry/place/790734271) : 제주도 3대 해장국
 * 서귀포 올래시장 땅콩만두( 4개 5천원 ) * 우도땅콩막걸리 (1병 4천원 )
-* 엘 마리노 뷔페 런치 : 내 복지포인트에서 결제가능
+* [엘 마리노 뷔페 런치](https://map.naver.com/v5/entry/place/37912630)
 
 
 > 레저
