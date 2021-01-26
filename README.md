@@ -119,7 +119,7 @@ T・Way : 김포 ( 08 : 15 ) ~ 제주 ( 09 : 25 )
 * [몸냥식탁](https://map.naver.com/v5/entry/place/1354284057) : 비주얼 좋음
 * [은희네 해장국](https://map.naver.com/v5/entry/place/1596680288) : 제주도 3대 해장국
 * [미풍 해장국](https://map.naver.com/v5/entry/place/790734271) : 제주도 3대 해장국
-* 서귀포 올래시장 땅콩만두( 4개 5천원 ) * 우도땅콩막걸리 (1병 4천원 )
+* [제주 서귀포 매일올레시장](https://map.naver.com/v5/entry/place/13571992) : 땅콩만두( 4개 5천원 ) * 우도땅콩막걸리 (1병 4천원 ), 흑돼지라멘, 회...
 * [엘 마리노 뷔페 런치](https://map.naver.com/v5/entry/place/37912630)
 
 
