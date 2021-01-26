@@ -46,7 +46,7 @@ T・Way : 김포 ( 08 : 15 ) ~ 제주 ( 09 : 25 )
 * 이동 -> 몬스터 살롱 10분 소요
 * 참 : [몬스터살롱](https://map.naver.com/v5/entry/place/35125037) - 햄버거 : 4만원 > 16 : 00 p.m 출발
 * 이동 -> 35분 소요
-* 탐방 : 동문야시장 : 10만원(술포함) - 참돔회, 딱새우회, 아강발 > 17:30 p.m 출발
+* 탐방 : [제주 제주시 동문재래시장](https://map.naver.com/v5/entry/place/11616005) : 10만원(술포함) - 참돔회, 딱새우회, 아강발 > 17:30 p.m 출발
 * [용두암](https://map.naver.com/v5/entry/place/13491801) - 야경 산책
 * 숙소 짐 풀기 ([제주시-AirB&B](https://www.airbnb.co.kr/rooms/46473536)) : 휘로에서 도보 10분 - 침대 4개 vs 휘로에 가까운
 * 저녁 : [휘로](https://map.naver.com/v5/entry/place/32162526) - 해물전복갈비찜 : 15만원 ( 9시이후 금지 시 포장으로 들고와서 먹기 )
@@ -129,6 +129,7 @@ T・Way : 김포 ( 08 : 15 ) ~ 제주 ( 09 : 25 )
 * [넥슨박물관](https://map.naver.com/v5/entry/place/33907116) : 1인당 8천원
 * [성산일출봉](https://map.naver.com/v5/entry/place/11491438) : 1인당 5천원
 * [제주 서귀포 매일올레시장](https://map.naver.com/v5/entry/place/13571992)
+* [제주 제주시 동문재래시장](https://map.naver.com/v5/entry/place/11616005)
 * [천지연 폭포](https://map.naver.com/v5/entry/place/11491638) : 1인당 2천원
 * [용두암](https://map.naver.com/v5/entry/place/13491801)
 * 카카오프렌즈 팝스토어 본점
