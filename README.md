@@ -15,7 +15,7 @@ T・Way : 김포 ( 08 : 15 ) ~ 제주 ( 09 : 25 )
 
 ## 렌트카
 
--> [SK 렌트카 대여](./jeju_rentcar.htm)
+-> [SK 렌트카 대여](https://www.skcarrental.com/rent/index.do)
 
 -> 기름값 : 5만원정도?
 
