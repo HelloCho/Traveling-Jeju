@@ -15,7 +15,7 @@ T・Way : 김포 ( 08 : 15 ) ~ 제주 ( 09 : 25 )
 
 ## 렌트카
 
--> [BilyCar 렌트카 대여](https://www.billycar.co.kr) : 대기업
+-> [SK 렌트카 대여](/jeju_rentcar/jeju_rentcar.htm) : 대기업
 
 -> 기름값 : 5만원정도?
 
